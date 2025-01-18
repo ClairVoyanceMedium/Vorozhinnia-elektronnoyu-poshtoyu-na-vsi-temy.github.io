@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <loc>https://clairvoyancemedium.github.io/Voyancepartelephonepaschere.github.io/</loc>
-        <lastmod>2024-12-09</lastmod>
+        <loc>https://clairvoyancemedium.github.io/Vorozhinnia-elektronnoyu-poshtoyu-na-vsi-temy.github.io/</loc>
+        <lastmod>2025-01-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://clairvoyancemedium.github.io/Vorozhinnia-elektronnoyu-poshtoyu-na-vsi-temy.github.io/"/>
     </url>
     <url>
-        <loc>https://clairvoyancemedium.github.io/Voyancepartelephonepaschere.github.io/tarifs</loc>
-        <lastmod>2024-12-09</lastmod>
+        <loc>https://clairvoyancemedium.github.io/Vorozhinnia-elektronnoyu-poshtoyu-na-vsi-temy.github.io/tarifs</loc>
+        <lastmod>2025-01-18</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://clairvoyancemedium.github.io/Vorozhinnia-elektronnoyu-poshtoyu-na-vsi-temy.github.io/tarifs"/>
     </url>
     <url>
-        <loc>https://clairvoyancemedium.github.io/Voyancepartelephonepaschere.github.io/contact</loc>
-        <lastmod>2024-12-09</lastmod>
+        <loc>https://clairvoyancemedium.github.io/Vorozhinnia-elektronnoyu-poshtoyu-na-vsi-temy.github.io/contact</loc>
+        <lastmod>2025-01-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://clairvoyancemedium.github.io/Vorozhinnia-elektronnoyu-poshtoyu-na-vsi-temy.github.io/contact"/>
     </url>
 </urlset>
