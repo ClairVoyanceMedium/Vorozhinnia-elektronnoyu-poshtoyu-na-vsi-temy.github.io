@@ -16,12 +16,15 @@ Allow: /images/
 # Référencement des ressources multimédias
 Allow: *.png
 Allow: *.jpg
+Allow: *.jpeg
+Allow: *.gif
 Allow: *.webp
+Allow: *.svg
 Allow: *.css
 Allow: *.js
 
 # Fournir le chemin du fichier sitemap pour une meilleure indexation
-Sitemap: https://www.clairvoyancemedium.com/sitemap.xml
+Sitemap: https://clairvoyancemedium.github.io/Vorozhinnia-elektronnoyu-poshtoyu-na-vsi-temy.github.io/sitemap.xml
 
 # Autorisation pour les robots Google et Bing pour maximiser les campagnes publicitaires
 User-agent: Googlebot
@@ -36,7 +39,22 @@ User-agent: BadBot
 Disallow: /
 User-agent: EvilScraper
 Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
 
 # Empêcher l'exploration des fichiers sensibles
 Disallow: /config/
 Disallow: /backup/
+Disallow: /logs/
+Disallow: /cache/
+
+# Gestion spécifique des robots d'analyse de sécurité
+User-agent: Wget
+Disallow: /
+User-agent: HTTrack
+Disallow: /
+
+# Délai de crawl pour éviter de surcharger le serveur
+Crawl-delay: 10
